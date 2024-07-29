@@ -6,7 +6,7 @@ On my return, I asked Chatgpt to give me 40 different SQL questions based on a d
 I asked for the question strategically advancing from beginner to intermediate level of difficulty (1-20) AND intermediate to advanced SQL questions (21-40). 
 
 # BELOW ARE THE QUESTIONS
-# Here are 20 SQL questions/problems to solve using the 'imdb_top_1000' dataset:
+## Here are 20 SQL questions/problems to solve using the 'imdb_top_1000' dataset:
 
 Retrieve all columns for movies released after the year 2000.
 Find the top 10 movies with the highest IMDB ratings.
@@ -29,7 +29,7 @@ List movies that were released in the same year as a specific movie (e.g., "The 
 Find movies that have at least two of the same leading stars.
 Calculate the average runtime of movies for each genre.
 
-# Here are 20 more intermediate to advanced SQL questions/problems:
+## Here are 20 more intermediate to advanced SQL questions/problems:
 
 Find the top 3 genres with the highest average IMDB rating.
 Retrieve movies that have a gross revenue in the top 10% of all movies.
